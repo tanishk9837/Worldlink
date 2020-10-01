@@ -1,6 +1,6 @@
 Worldlink
 =========
-
+please provide some more info 
 A social networking website using the *Django framework*.  
 
 Features include -  
